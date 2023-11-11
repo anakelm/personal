@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T13:14:30.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D8EpaWbx2KkTCjFYblnK" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-11T13:22:23.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="d7e1baahv_oOVeLXTQXE" version="22.1.0" type="github">
   <diagram name="Page-1" id="oXrtzLeK_FP_H-q1y8PM">
     <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,11 +28,11 @@
         <mxCell id="v3Q2AHXwAPa4qz70-Mcr-141" value="Registrierung" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="336.38" y="1005.53" width="176.3" height="74.47" as="geometry" />
         </mxCell>
-        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-144" value="Gutschein auflösen" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-144" value="Gutscheinauflösung" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="333.89" y="1370" width="183.52" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-152" value="Kundenservice&lt;br style=&quot;font-size: 15px;&quot;&gt;kontaktieren" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="335.00000000000006" y="1490" width="179.07" height="69.47" as="geometry" />
+        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-152" value="Kundenservicekontakt" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="318.15" y="1490" width="215" height="79.47" as="geometry" />
         </mxCell>
         <mxCell id="v3Q2AHXwAPa4qz70-Mcr-155" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="v3Q2AHXwAPa4qz70-Mcr-166" target="v3Q2AHXwAPa4qz70-Mcr-144" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,13 +46,13 @@
             <mxPoint x="201.31" y="1376.5300000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-163" value="Login" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="347" y="900" width="156.3" height="60" as="geometry" />
+        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-163" value="Anmeldung" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="347.5" y="900" width="156.3" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-164" value="Rad ausleihen" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="328.88000000000005" y="1130" width="191.3" height="73.94" as="geometry" />
+        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-164" value="Radausleihe" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="329.00000000000006" y="1130" width="191.3" height="73.94" as="geometry" />
         </mxCell>
-        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-165" value="Rad zurückgeben" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="v3Q2AHXwAPa4qz70-Mcr-165" value="Radrückgabe" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="335" y="1250" width="181.3" height="71.97" as="geometry" />
         </mxCell>
         <mxCell id="v3Q2AHXwAPa4qz70-Mcr-166" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -63,9 +63,6 @@
             <mxPoint x="140" y="1218" as="sourcePoint" />
             <mxPoint x="393.31" y="1141" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ydkq3i7rLbuJ74HGtgoE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.573;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v3Q2AHXwAPa4qz70-Mcr-144" target="v3Q2AHXwAPa4qz70-Mcr-144">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ydkq3i7rLbuJ74HGtgoE-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="1180" width="30" height="58.03" as="geometry" />
